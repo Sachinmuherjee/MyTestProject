@@ -38,6 +38,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@testing-library/jest-dom", "npm:5.14.1"],
             ["@testing-library/react", "virtual:1d2b4b79e40019c6a641980f2d6e5b485bac034092d561bb79f8de550350deaa6fa0d01a15dddba983c39d1ffe51b588a5a2acce20d34fb38bd8e2a6f673c124#npm:11.2.7"],
             ["@testing-library/user-event", "virtual:1d2b4b79e40019c6a641980f2d6e5b485bac034092d561bb79f8de550350deaa6fa0d01a15dddba983c39d1ffe51b588a5a2acce20d34fb38bd8e2a6f673c124#npm:12.8.3"],
+            ["husky", "npm:7.0.4"],
             ["react", "npm:17.0.2"],
             ["react-dom", "virtual:1d2b4b79e40019c6a641980f2d6e5b485bac034092d561bb79f8de550350deaa6fa0d01a15dddba983c39d1ffe51b588a5a2acce20d34fb38bd8e2a6f673c124#npm:17.0.2"],
             ["react-scripts", "virtual:1d2b4b79e40019c6a641980f2d6e5b485bac034092d561bb79f8de550350deaa6fa0d01a15dddba983c39d1ffe51b588a5a2acce20d34fb38bd8e2a6f673c124#npm:4.0.3"],
@@ -11209,6 +11210,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD",
         }]
       ]],
+      ["husky", [
+        ["npm:7.0.4", {
+          "packageLocation": "./.yarn/cache/husky-npm-7.0.4-917ba035c6-c6ec4af63d.zip/node_modules/husky/",
+          "packageDependencies": [
+            ["husky", "npm:7.0.4"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
       ["iconv-lite", [
         ["npm:0.4.24", {
           "packageLocation": "./.yarn/cache/iconv-lite-npm-0.4.24-c5c4ac6695-bd9f120f5a.zip/node_modules/iconv-lite/",
@@ -13789,6 +13799,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@testing-library/jest-dom", "npm:5.14.1"],
             ["@testing-library/react", "virtual:1d2b4b79e40019c6a641980f2d6e5b485bac034092d561bb79f8de550350deaa6fa0d01a15dddba983c39d1ffe51b588a5a2acce20d34fb38bd8e2a6f673c124#npm:11.2.7"],
             ["@testing-library/user-event", "virtual:1d2b4b79e40019c6a641980f2d6e5b485bac034092d561bb79f8de550350deaa6fa0d01a15dddba983c39d1ffe51b588a5a2acce20d34fb38bd8e2a6f673c124#npm:12.8.3"],
+            ["husky", "npm:7.0.4"],
             ["react", "npm:17.0.2"],
             ["react-dom", "virtual:1d2b4b79e40019c6a641980f2d6e5b485bac034092d561bb79f8de550350deaa6fa0d01a15dddba983c39d1ffe51b588a5a2acce20d34fb38bd8e2a6f673c124#npm:17.0.2"],
             ["react-scripts", "virtual:1d2b4b79e40019c6a641980f2d6e5b485bac034092d561bb79f8de550350deaa6fa0d01a15dddba983c39d1ffe51b588a5a2acce20d34fb38bd8e2a6f673c124#npm:4.0.3"],
